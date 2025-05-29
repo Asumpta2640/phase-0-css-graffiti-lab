@@ -1,1 +1,39 @@
-/* write your override styles here */
+/* w/* Fix weird body background */
+body {
+  background-color: white;
+  color: black;
+  font-family: sans-serif;
+}
+
+/* Center header text */
+header h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #333;
+}
+
+/* Fix nav bar spacing */
+nav {
+  background-color: #eee;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+/* Improve layout of article section */
+article {
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Style links better */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+rite your override styles here */
